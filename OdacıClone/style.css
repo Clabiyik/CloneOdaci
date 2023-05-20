@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: #343a40;
+
+}
+    
+
+
+.text-size{
+    font-size: 60px;
+    font-weight: bold;
+}
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+.nav-item,h2,.saat{
+    font-size: 18px;
+}
+
+.nav-width{
+    height: 50px;
+    background-color: rgb(61, 140, 156)
+}
+
+.block{
+    background-color: #fff3cd;
+    border: 1px solid #000000;
+    border-radius: 5px;   
+}
+.kodu, .adi{
+    color:rgb(61, 140, 156);
+}
