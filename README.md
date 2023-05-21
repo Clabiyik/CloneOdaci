@@ -1,6 +1,6 @@
 # CloneOdaci
 This project i clone Odacı website
-if you wanna see this site: https://odaci.com
+<p>if you wanna see this site: https://odaci.com </p>
 This is my clone project:
 ![image](https://github.com/Clabiyik/CloneOdaci/assets/98713471/49d0d441-0006-4a69-b2f8-d734c8341bfe)
 
